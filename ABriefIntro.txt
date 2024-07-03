@@ -1,0 +1,12 @@
+---------------------
+--- REPO Overview ---
+---------------------
+
+I've started Andrew Ng's machine learning coursera course on 07/03/2024.
+My goal is to submit my code and other conceptual work to fufill the course requirements and expectations.
+We'll be reviewing a multitude of ML topics, spanning across the following whirlwind of categories :
+
+(A) Diagnosing diseases from hospital image scans or X-Ray Scans
+(B) Detecting defects in nearRT in factory assembly line products
+(C) Optimizing power generation and power distribution
+

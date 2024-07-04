@@ -2,11 +2,7 @@
 # Let us fit a BLOF : Best Line of Fit
 # Supervised learning : univariate ( one variable ) linear regression
 
-# Commit log :
-# (A) Gotta learn sklearn
-# (B)
-# (C)
-# (D)
+# Business use case : Assist REAs - real estate agents - in assessing home values quickly and minimize manual human work in assessing. Make markets more liquid.
 
 import pandas as pd
 import numpy as np
